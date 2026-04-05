@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "くりてぃかる♡ぷりち",
+  "base_track": "くりてぃかる♡ぷりちー",
   "base_artist": "iLiFE!",
-  "createdAt": "2025-12-17T07:11:07.513796Z",
+  "createdAt": "2026-04-05T13:51:33.172161Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,24 @@
       "artist": "iLiFE!",
       "has_synced": false,
       "path": "select/pl_01_くりてぃかる♡ぷりちー_iLiFE!.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "くりてぃかる♡ぷりちー",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/localdb_01_くりてぃかる♡ぷりちー_iLiFE!.txt",
+      "repo_name": "U32RQ7dqpbg"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "くりてぃかる♡ぷりちー",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/localdb_02_くりてぃかる♡ぷりちー_iLiFE!.txt",
+      "repo_name": "5o8rHvKeQ1k"
     }
   ]
 }
